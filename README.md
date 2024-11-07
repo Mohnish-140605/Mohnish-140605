@@ -2,7 +2,6 @@
     <a href="https://gssoc.girlscript.tech/leaderboard">
         <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
     </a>
-    https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&mohnish=<Mohnish-140605>
 </div>
 
 # Hi there, I'm Mohnish! 👋
