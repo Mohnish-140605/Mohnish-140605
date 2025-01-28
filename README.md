@@ -13,13 +13,14 @@ I'm a driven and passionate Computer Science student at RV University, with a di
 - **Interests**: Computer Science, Aircraft, Sports Cars,Podcasting and scripting.
 - **Passionate about**: Designing structural models that merge engineering principles with creative, innovative thinking.
 - **Videography Enthusiast**: I love creating lyrical videos that combine music with visual storytelling through text.
-```
+
 ### 🌱 Community Involvement
 Beyond academics, I'm deeply committed to community service and volunteer work. Here are some of the ways I contribute:
 - **Google developers Group-Content/Speakers domain at RV University**: Actively engaged in documenting google docs for events conducted by gdg at RV University..
 - **Rotary Club Member**: Actively engaged in volunteer work, focused on overcoming challenges and spreading positivity. I believe in the power of community service to make a meaningful impact.
 - **OpenMike Club Member at RV University**: As a core member of the podcast vertical, I interact with and engage guests, ensuring each episode is fun, insightful, and entertaining for our audience.
----
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Thanks for visiting my Github profile! Feel free to connect or reach out if you share any of these interests, or just want to chat about just anything 
 
