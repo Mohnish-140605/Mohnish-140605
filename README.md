@@ -13,7 +13,7 @@ I'm a driven and passionate Computer Science student at RV University, with a di
 - **Interests**: Computer Science, Aircraft, Sports Cars,Podcasting and scripting.
 - **Passionate about**: Designing structural models that merge engineering principles with creative, innovative thinking.
 - **Videography Enthusiast**: I love creating lyrical videos that combine music with visual storytelling through text.
-
+```
 ### 🌱 Community Involvement
 Beyond academics, I'm deeply committed to community service and volunteer work. Here are some of the ways I contribute:
 - **Google developers Group-Content/Speakers domain at RV University**: Actively engaged in documenting google docs for events conducted by gdg at RV University..
@@ -27,4 +27,3 @@ cheers:)
 
 ### 🌐 Find me on LinkedIn and GitHub!
 - **LinkedIn**:https://www.linkedin.com/in/mohnish-gunashekar-naidu-10ba3a231/
-- 
