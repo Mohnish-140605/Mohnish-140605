@@ -19,6 +19,9 @@ Beyond academics, I'm deeply committed to community service and volunteer work. 
 - **Google developers Group-Content/Speakers domain at RV University**: Actively engaged in documenting google docs for events conducted by gdg at RV University..
 - **Rotary Club Member**: Actively engaged in volunteer work, focused on overcoming challenges and spreading positivity. I believe in the power of community service to make a meaningful impact.
 - **OpenMike Club Member at RV University**: As a core member of the podcast vertical, I interact with and engage guests, ensuring each episode is fun, insightful, and entertaining for our audience.
+- **RISE AGAINST HUNGER INDIA**:Active contributor in this international Non government Organisations in Food packaging for the underpriviledged..
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
