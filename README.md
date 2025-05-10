@@ -3,6 +3,7 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   </a>
 </div>
+  <img src="https://img.shields.io/badge/Anime-Naruto-orange?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAJFBMVEX////MzMwAAABmZmYwMDB/f38/Pz/z8/PV1dWjo6OwsLAsLCycnJw3tH8TAAAAAXRSTlMAQObYZgAAAMtJREFUSMet1FsSgCAMBNBfC/j/f24RUJYVEcqnHXNn9MJ43npUl2u6yoMVoT4cwplkTuFylZLqlbBkcggoA2zXgCRUQgAFIJAIQgXtcB+5SDVE/3YMxUXp5RkRiFEIQUQhBRCIFgKcSBIEpAdArCA0CRKELhXmgjclKHzkI5MI2sKFL5vE+83s12PTevdgqZ7ovAYTkMECIAZ7GMzGe0JYAAAAASUVORK5CYII=" />
 
 # 👋 Hey, I'm Mohnish!
 
