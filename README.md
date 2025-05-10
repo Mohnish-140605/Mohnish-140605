@@ -1,33 +1,70 @@
 <div align="center">
-    <a href="https://gssoc.girlscript.tech/leaderboard">
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-    </a>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  </a>
 </div>
 
-# Hello visitors,I am Mohnish,currently in 4th sem of my undergrad with minors in FinTech in RV University 👋
+# 👋 Hey, I'm Mohnish!
 
-I'm a driven and passionate Computer Science student at RV University, with a diverse set of interests and skills that I bring to all my projects and community initiatives.
+I'm a 4th-semester Computer Science undergrad at **RV University**, with a minor in **FinTech**. I enjoy building cool tech, exploring AI, and creating content that tells stories — whether it's code, podcasts, or videos.
 
-### 🎓 About Me
-- **Currently Studying**: Computer Science at RV University.(Currently in 4th Sem of Undergrad)
-- **Interests**: Computer Science, Aircraft, Sports Cars,Podcasting and scripting.
-- **Passionate about**: Designing structural models that merge engineering principles with creative, innovative thinking.
-- **Videography Enthusiast**: I love creating lyrical videos that combine music with visual storytelling through text.
+---
 
-### 🌱 Community Involvement
-Beyond academics, I'm deeply committed to community service and volunteer work. Here are some of the ways I contribute:
-- **Google developers Group-Content/Speakers domain at RV University**: Actively engaged in documenting google docs for events conducted by gdg at RV University..
-- **Rotary Club Member**: Actively engaged in volunteer work, focused on overcoming challenges and spreading positivity. I believe in the power of community service to make a meaningful impact.
-- **OpenMike Club Member at RV University**: As a core member of the podcast vertical, I interact with and engage guests, ensuring each episode is fun, insightful, and entertaining for our audience.
-- **RISE AGAINST HUNGER INDIA**:Active contributor in this international Non government Organisations in Food packaging for the underpriviledged..
+## 🧠 About Me
 
+- 🎓 CS student @ RVU | Minor in FinTech  
+- 💡 Interests: AI, MERN Stack, Videography, Podcasting, Cars, Aircraft  
+- 🧩 I like solving real-world problems by mixing creativity with logic  
 
+---
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 💼 What I'm Exploring
 
-Thanks for visiting my Github profile! Feel free to connect or reach out if you share any of these interests, or just want to chat about just anything 
+Looking for opportunities and projects related to:
 
-cheers:)
+- 🧠 **AI/ML Roles** – AI Developer, ML Engineer, Prompt Engineer  
+- 🌐 **Web Dev Roles** – MERN Stack Dev, Full-Stack Dev, Frontend Dev  
+- 📊 **FinTech & Data** – Data Analyst, Product Intern (AI x Finance)
 
-### 🌐 Find me on LinkedIn and GitHub!
-- **LinkedIn**:https://www.linkedin.com/in/mohnish-gunashekar-naidu-10ba3a231/
+---
+
+## 🌱 Community & Clubs
+
+- 📢 **GDG RVU** – Content & speaker coordination  
+- 🎙️ **OpenMike RVU** – Core member in podcasting vertical  
+- 🤝 **Rotary Club RVU** – Active volunteer  
+- 🍱 **Rise Against Hunger** – Food packaging volunteer
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohnish-gunashekar-naidu-10ba3a231/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mohnish-140605" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+Thanks for visiting! I'm always up for learning, building, and collaborating 🙂  
