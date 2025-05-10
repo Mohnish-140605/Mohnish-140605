@@ -3,10 +3,7 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   </a>
 </div>
-   <img 
-    src="https://img.shields.io/badge/Anime%20Lover-%E2%9D%A4-E91E63?style=flat-square" 
-    alt="Anime Lover" />
-</p>
+
 
 # 👋 Hey, I'm Mohnish!
 
@@ -58,7 +55,18 @@ Looking for opportunities and projects related to:
 </p>
 
 ---
+## 🌍 Causes I Support
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Humanitarian-Aid-FD6363?style=flat&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Animal%20Welfare-FFA500?style=flat&logo=paw&logoColor=white" />
+  <img src="https://img.shields.io/badge/Environmental%20Care-228B22?style=flat&logo=leaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Volunteer%20Work-007ACC?style=flat&logo=people&logoColor=white" />
+</p>
+
+---
+
+Thanks for visiting! I'm always up for learning, building, and collaborating 🙂
 ## 🔗 Connect with Me
 
 <p align="left">
@@ -73,3 +81,4 @@ Looking for opportunities and projects related to:
 ---
 
 Thanks for visiting! I'm always up for learning, building, and collaborating 🙂  
+
