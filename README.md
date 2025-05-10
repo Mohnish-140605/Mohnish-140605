@@ -30,10 +30,11 @@ Looking for opportunities and projects related to:
 
 ## 🌱 Community & Clubs
 
-- 📢 **GDG RVU** – Content & speaker coordination  
+- 📢 **GDG RVU** – Content & speaker Domain  
 - 🎙️ **OpenMike RVU** – Core member in podcasting vertical  
 - 🤝 **Rotary Club RVU** – Active volunteer  
 - 🍱 **Rise Against Hunger** – Food packaging volunteer
+- 🍱 **Rishika Foundation** - Active Volunteer
 
 ---
 
