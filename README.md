@@ -42,7 +42,7 @@ Looking for opportunities and projects related to:
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff" />
