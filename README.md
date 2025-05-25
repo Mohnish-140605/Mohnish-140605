@@ -15,7 +15,7 @@ I'm a 4th-semester Computer Science undergrad at **RV University**, with a minor
 
 - 🎓 CS student @ RVU | Minor in FinTech  
 - 💡 Interests: AI, MERN Stack, Videography, Podcasting, Cars, Aircraft  
-- 🧩 I like solving real-world problems by mixing creativity with logic  
+- 🧩 I like solving real-world problems by mixing creativity 
 
 ---
 
