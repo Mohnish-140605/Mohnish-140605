@@ -7,7 +7,7 @@
 
 # 👋 Hey, I'm Mohnish!
 
-I'm a 4th-semester Computer Science undergrad at **RV University**, with a minor in **FinTech**. I enjoy building cool tech, exploring AI, and creating content that tells stories — whether it's code, podcasts, or videos.
+I'm a 6th-semester Computer Science undergrad at **RV University**, with a minor in **FinTech**. I enjoy building cool tech, exploring AI, and creating content that tells stories — whether it's code, podcasts, or videos.
 
 ---
 
